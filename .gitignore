@@ -1,0 +1,5 @@
+bank-full-updated.csv
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
