@@ -1,3 +1,7 @@
+## View Notebook
+
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/Tannushree26/Bank-marketing-ML-Pipeline/blob/main/DG4ML_Assignment_250290796.ipynb)
+
 # DG4AML – Applied Machine Learning: Bank Marketing Subscription Prediction
 
 An end-to-end machine learning pipeline built on the **UCI Bank Marketing dataset** to predict whether a customer subscribes to a term deposit following a marketing call.
